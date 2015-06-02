@@ -1,0 +1,1 @@
+- does not store feature in each state to reduce memory consume
